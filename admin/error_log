@@ -1,0 +1,287 @@
+[29-Nov-2017 09:14:22 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 78
+[29-Nov-2017 09:14:22 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 79
+[29-Nov-2017 09:46:27 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:142) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 155
+[29-Nov-2017 12:22:37 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:142) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 155
+[29-Nov-2017 12:23:47 Etc/GMT] PHP Warning:  move_uploaded_file(../img/news/151195822721css.jpg): failed to open stream: No such file or directory in /home/a21csabs/public_html/new/workspace/admin/newsImgAcceptor.php on line 41
+[29-Nov-2017 12:23:47 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpZaJ6lV' to '../img/news/151195822721css.jpg' in /home/a21csabs/public_html/new/workspace/admin/newsImgAcceptor.php on line 41
+[30-Nov-2017 11:46:52 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:142) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 155
+[30-Nov-2017 12:02:59 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:142) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 155
+[30-Nov-2017 12:32:56 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:142) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 155
+[30-Nov-2017 12:33:38 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:142) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 155
+[30-Nov-2017 12:36:45 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 78
+[30-Nov-2017 12:36:45 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 79
+[02-Dec-2017 09:07:15 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/ourWinners.php on line 116
+[02-Dec-2017 10:47:38 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/ourWinners.php on line 116
+[02-Dec-2017 12:10:57 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 204
+[02-Dec-2017 12:10:57 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 205
+[02-Dec-2017 12:19:58 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:142) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 155
+[02-Dec-2017 12:25:54 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:142) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 155
+[02-Dec-2017 12:26:23 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:142) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 155
+[07-Dec-2017 09:42:41 Etc/GMT] PHP Warning:  move_uploaded_file(/new/workspace/img/latest-events/15126397611-speak-five-lines-daily-apj-abdul-kalam.jpg): failed to open stream: No such file or directory in /home/a21csabs/public_html/new/workspace/admin/latestEventsImgAcceptor.php on line 41
+[07-Dec-2017 09:42:41 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpNJinbb' to '/new/workspace/img/latest-events/15126397611-speak-five-lines-daily-apj-abdul-kalam.jpg' in /home/a21csabs/public_html/new/workspace/admin/latestEventsImgAcceptor.php on line 41
+[07-Dec-2017 14:58:12 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 132
+[07-Dec-2017 14:58:33 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 160
+[07-Dec-2017 14:58:54 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 160
+[08-Dec-2017 05:59:02 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:258) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 271
+[08-Dec-2017 11:05:54 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 160
+[08-Dec-2017 11:22:01 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 160
+[08-Dec-2017 11:28:25 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 160
+[08-Dec-2017 11:59:32 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 160
+[08-Dec-2017 12:03:41 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 160
+[09-Dec-2017 05:24:10 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 160
+[09-Dec-2017 05:37:43 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 160
+[09-Dec-2017 05:42:05 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 160
+[09-Dec-2017 07:01:51 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 160
+[09-Dec-2017 09:58:32 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 160
+[09-Dec-2017 10:30:17 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 160
+[09-Dec-2017 11:38:41 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 160
+[09-Dec-2017 11:44:28 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 160
+[09-Dec-2017 11:54:15 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 160
+[09-Dec-2017 11:58:12 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 160
+[11-Dec-2017 07:32:12 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 201
+[11-Dec-2017 08:27:05 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 201
+[11-Dec-2017 08:58:29 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 201
+[11-Dec-2017 09:11:28 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 201
+[11-Dec-2017 09:14:17 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 201
+[11-Dec-2017 09:15:43 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 201
+[11-Dec-2017 09:17:38 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 201
+[11-Dec-2017 09:18:05 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 201
+[11-Dec-2017 09:18:31 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 201
+[11-Dec-2017 09:19:09 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 201
+[11-Dec-2017 09:19:55 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 201
+[11-Dec-2017 09:20:19 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 201
+[11-Dec-2017 09:20:59 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 201
+[11-Dec-2017 09:53:45 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 201
+[11-Dec-2017 11:08:23 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 201
+[11-Dec-2017 11:59:34 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 201
+[12-Dec-2017 04:01:44 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 201
+[12-Dec-2017 04:10:28 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 201
+[12-Dec-2017 04:32:54 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 201
+[12-Dec-2017 04:50:05 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 201
+[12-Dec-2017 04:57:42 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 201
+[12-Dec-2017 05:04:48 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:332) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 345
+[12-Dec-2017 05:05:31 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:301) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 314
+[12-Dec-2017 05:23:50 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:301) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 314
+[12-Dec-2017 05:24:03 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:301) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 314
+[12-Dec-2017 05:24:19 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:301) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 314
+[12-Dec-2017 05:26:48 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:301) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 314
+[12-Dec-2017 05:26:52 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:301) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 314
+[12-Dec-2017 05:28:37 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:301) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 314
+[12-Dec-2017 05:51:43 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/content.php on line 201
+[12-Dec-2017 11:39:51 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:142) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 155
+[12-Dec-2017 11:46:24 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:142) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 155
+[12-Dec-2017 11:46:44 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:142) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 155
+[12-Dec-2017 11:48:25 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:142) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 155
+[12-Dec-2017 11:51:14 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:142) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 155
+[12-Dec-2017 13:12:44 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/editgallery.php on line 118
+[12-Dec-2017 13:13:46 Etc/GMT] PHP Notice:  Undefined index: error in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 521
+[12-Dec-2017 13:13:46 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:509) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 522
+[12-Dec-2017 13:22:23 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/editgallery.php on line 118
+[12-Dec-2017 13:22:39 Etc/GMT] PHP Notice:  Undefined index: error in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 521
+[12-Dec-2017 13:22:39 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:509) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 522
+[12-Dec-2017 13:24:34 Etc/GMT] PHP Notice:  Undefined index: id in /home/a21csabs/public_html/new/workspace/admin/editgallery.php on line 5
+[12-Dec-2017 13:24:34 Etc/GMT] PHP Notice:  Undefined index: id in /home/a21csabs/public_html/new/workspace/admin/editgallery.php on line 33
+[12-Dec-2017 13:24:34 Etc/GMT] PHP Notice:  Undefined index: id in /home/a21csabs/public_html/new/workspace/admin/editgallery.php on line 40
+[12-Dec-2017 13:24:34 Etc/GMT] PHP Notice:  Undefined index: id in /home/a21csabs/public_html/new/workspace/admin/editgallery.php on line 84
+[13-Dec-2017 10:17:14 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/studentzone.php on line 127
+[13-Dec-2017 10:17:46 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 536
+[13-Dec-2017 10:17:46 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 537
+[13-Dec-2017 10:17:53 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/studentzone.php on line 127
+[13-Dec-2017 10:21:16 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/studentzone.php on line 127
+[13-Dec-2017 11:35:56 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/studentzone.php on line 127
+[13-Dec-2017 11:36:43 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/studentzone.php on line 127
+[13-Dec-2017 11:37:28 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/studentzone.php on line 127
+[13-Dec-2017 11:37:34 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/studentzone.php on line 127
+[13-Dec-2017 11:38:51 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/studentzone.php on line 127
+[13-Dec-2017 11:40:23 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/studentzone.php on line 127
+[13-Dec-2017 11:41:03 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/studentzone.php on line 127
+[13-Dec-2017 11:46:51 Etc/GMT] PHP Notice:  Undefined index: error in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 557
+[13-Dec-2017 11:46:51 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/studentzone.php on line 127
+[13-Dec-2017 11:48:09 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/studentzone.php on line 127
+[13-Dec-2017 11:48:17 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/studentzone.php on line 127
+[13-Dec-2017 11:49:08 Etc/GMT] PHP Notice:  Undefined index: error in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 606
+[13-Dec-2017 11:53:21 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/studentzone.php on line 127
+[13-Dec-2017 11:54:09 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/studentzone.php on line 139
+[13-Dec-2017 11:55:07 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/studentzone.php on line 139
+[13-Dec-2017 11:55:31 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/studentzone.php on line 139
+[13-Dec-2017 12:26:52 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/studentzone.php on line 140
+[13-Dec-2017 12:26:53 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/studentzone.php on line 140
+[13-Dec-2017 13:20:58 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/studentzone.php on line 140
+[13-Dec-2017 13:20:59 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/studentzone.php on line 140
+[13-Dec-2017 13:32:09 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/a21csabs/public_html/new/workspace/admin/studentzone.php on line 140
+[14-Dec-2017 07:27:20 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:142) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 155
+[14-Dec-2017 08:21:37 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:142) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 155
+[14-Dec-2017 08:24:29 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:142) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 155
+[14-Dec-2017 08:28:18 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:142) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 155
+[14-Dec-2017 08:33:29 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:142) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 155
+[14-Dec-2017 09:45:39 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 238
+[14-Dec-2017 09:45:39 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:265) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 278
+[14-Dec-2017 09:46:32 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 238
+[14-Dec-2017 09:46:32 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:265) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 278
+[14-Dec-2017 09:48:55 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 238
+[14-Dec-2017 09:48:55 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:265) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 278
+[14-Dec-2017 09:49:25 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 238
+[14-Dec-2017 09:49:25 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:265) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 278
+[14-Dec-2017 09:49:59 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 202
+[14-Dec-2017 09:50:22 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 202
+[14-Dec-2017 11:19:44 Etc/GMT] PHP Notice:  Undefined index: error in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 521
+[14-Dec-2017 11:19:44 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:509) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 522
+[14-Dec-2017 11:25:37 Etc/GMT] PHP Notice:  Undefined index: error in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 521
+[14-Dec-2017 11:25:37 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/a21csabs/public_html/new/workspace/admin/formactions.php:509) in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 522
+[15-Dec-2017 11:45:49 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 536
+[15-Dec-2017 11:45:49 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 537
+[15-Dec-2017 12:08:06 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 536
+[15-Dec-2017 12:08:06 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 537
+[15-Dec-2017 12:12:08 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 536
+[15-Dec-2017 12:12:08 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 537
+[15-Dec-2017 12:12:40 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 536
+[15-Dec-2017 12:12:40 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 537
+[15-Dec-2017 12:13:02 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 536
+[15-Dec-2017 12:13:02 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 537
+[15-Dec-2017 12:13:33 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 536
+[15-Dec-2017 12:13:33 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 537
+[15-Dec-2017 12:16:31 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 536
+[15-Dec-2017 12:16:31 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 537
+[15-Dec-2017 12:16:55 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 536
+[15-Dec-2017 12:16:55 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 537
+[15-Dec-2017 12:17:16 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 536
+[15-Dec-2017 12:17:16 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 537
+[15-Dec-2017 12:17:38 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 536
+[15-Dec-2017 12:17:38 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 537
+[15-Dec-2017 12:17:58 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 536
+[15-Dec-2017 12:17:58 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 537
+[15-Dec-2017 12:19:46 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 536
+[15-Dec-2017 12:19:46 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 537
+[15-Dec-2017 12:20:54 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 536
+[15-Dec-2017 12:20:54 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/a21csabs/public_html/new/workspace/admin/formactions.php on line 537
+[16-Dec-2017 09:11:49 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 245
+[16-Dec-2017 09:12:07 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 245
+[16-Dec-2017 09:12:47 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[16-Dec-2017 11:12:11 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[16-Dec-2017 11:23:22 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[16-Dec-2017 11:23:22 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/kpiasdotcom/public_html/admin/formactions.php on line 209
+[16-Dec-2017 11:23:22 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/kpiasdotcom/public_html/admin/formactions.php on line 210
+[16-Dec-2017 11:30:52 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 245
+[16-Dec-2017 11:35:09 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 245
+[16-Dec-2017 11:44:04 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 245
+[16-Dec-2017 11:44:04 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kpiasdotcom/public_html/admin/formactions.php:276) in /home/kpiasdotcom/public_html/admin/formactions.php on line 289
+[16-Dec-2017 12:29:34 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[16-Dec-2017 12:37:22 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 245
+[16-Dec-2017 12:37:22 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kpiasdotcom/public_html/admin/formactions.php:276) in /home/kpiasdotcom/public_html/admin/formactions.php on line 289
+[16-Dec-2017 12:38:32 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 245
+[16-Dec-2017 12:38:32 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kpiasdotcom/public_html/admin/formactions.php:276) in /home/kpiasdotcom/public_html/admin/formactions.php on line 289
+[16-Dec-2017 12:38:37 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 245
+[16-Dec-2017 12:38:37 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kpiasdotcom/public_html/admin/formactions.php:276) in /home/kpiasdotcom/public_html/admin/formactions.php on line 289
+[16-Dec-2017 12:39:37 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 245
+[16-Dec-2017 12:39:37 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kpiasdotcom/public_html/admin/formactions.php:276) in /home/kpiasdotcom/public_html/admin/formactions.php on line 289
+[16-Dec-2017 12:41:05 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[16-Dec-2017 12:42:12 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[16-Dec-2017 12:46:21 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[16-Dec-2017 12:49:47 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[16-Dec-2017 12:52:30 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[16-Dec-2017 14:08:17 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[16-Dec-2017 14:08:17 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/kpiasdotcom/public_html/admin/formactions.php on line 209
+[16-Dec-2017 14:08:17 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/kpiasdotcom/public_html/admin/formactions.php on line 210
+[18-Dec-2017 09:04:12 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[18-Dec-2017 09:04:12 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/kpiasdotcom/public_html/admin/formactions.php on line 209
+[18-Dec-2017 09:04:12 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/kpiasdotcom/public_html/admin/formactions.php on line 210
+[18-Dec-2017 09:11:29 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[18-Dec-2017 09:11:29 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/kpiasdotcom/public_html/admin/formactions.php on line 209
+[18-Dec-2017 09:11:29 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/kpiasdotcom/public_html/admin/formactions.php on line 210
+[18-Dec-2017 09:12:01 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[18-Dec-2017 09:12:01 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/kpiasdotcom/public_html/admin/formactions.php on line 209
+[18-Dec-2017 09:12:01 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/kpiasdotcom/public_html/admin/formactions.php on line 210
+[18-Dec-2017 09:12:33 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[18-Dec-2017 09:12:33 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/kpiasdotcom/public_html/admin/formactions.php on line 209
+[18-Dec-2017 09:12:33 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/kpiasdotcom/public_html/admin/formactions.php on line 210
+[18-Dec-2017 09:13:09 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[18-Dec-2017 09:13:09 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/kpiasdotcom/public_html/admin/formactions.php on line 209
+[18-Dec-2017 09:13:09 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/kpiasdotcom/public_html/admin/formactions.php on line 210
+[18-Dec-2017 09:14:32 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[18-Dec-2017 09:14:32 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/kpiasdotcom/public_html/admin/formactions.php on line 209
+[18-Dec-2017 09:14:32 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/kpiasdotcom/public_html/admin/formactions.php on line 210
+[18-Dec-2017 09:15:11 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[18-Dec-2017 09:15:11 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/kpiasdotcom/public_html/admin/formactions.php on line 209
+[18-Dec-2017 09:15:11 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/kpiasdotcom/public_html/admin/formactions.php on line 210
+[18-Dec-2017 09:15:55 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[18-Dec-2017 09:15:55 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/kpiasdotcom/public_html/admin/formactions.php on line 209
+[18-Dec-2017 09:15:55 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/kpiasdotcom/public_html/admin/formactions.php on line 210
+[18-Dec-2017 09:22:02 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 245
+[18-Dec-2017 09:26:40 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[18-Dec-2017 09:26:40 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/kpiasdotcom/public_html/admin/formactions.php on line 209
+[18-Dec-2017 09:26:40 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/kpiasdotcom/public_html/admin/formactions.php on line 210
+[18-Dec-2017 09:32:54 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[18-Dec-2017 09:32:54 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/kpiasdotcom/public_html/admin/formactions.php on line 209
+[18-Dec-2017 09:32:54 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/kpiasdotcom/public_html/admin/formactions.php on line 210
+[18-Dec-2017 09:33:22 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[18-Dec-2017 09:33:22 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/kpiasdotcom/public_html/admin/formactions.php on line 209
+[18-Dec-2017 09:33:22 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/kpiasdotcom/public_html/admin/formactions.php on line 210
+[18-Dec-2017 09:33:51 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[18-Dec-2017 09:33:51 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/kpiasdotcom/public_html/admin/formactions.php on line 209
+[18-Dec-2017 09:33:51 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/kpiasdotcom/public_html/admin/formactions.php on line 210
+[18-Dec-2017 09:34:22 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[18-Dec-2017 09:34:22 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/kpiasdotcom/public_html/admin/formactions.php on line 209
+[18-Dec-2017 09:34:22 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/kpiasdotcom/public_html/admin/formactions.php on line 210
+[18-Dec-2017 09:34:54 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[18-Dec-2017 09:34:54 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/kpiasdotcom/public_html/admin/formactions.php on line 209
+[18-Dec-2017 09:34:54 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/kpiasdotcom/public_html/admin/formactions.php on line 210
+[18-Dec-2017 09:37:49 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[18-Dec-2017 09:37:49 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/kpiasdotcom/public_html/admin/formactions.php on line 209
+[18-Dec-2017 09:37:49 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/kpiasdotcom/public_html/admin/formactions.php on line 210
+[18-Dec-2017 09:38:16 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[18-Dec-2017 09:38:16 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/kpiasdotcom/public_html/admin/formactions.php on line 209
+[18-Dec-2017 09:38:16 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/kpiasdotcom/public_html/admin/formactions.php on line 210
+[18-Dec-2017 09:38:58 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[18-Dec-2017 09:38:58 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/kpiasdotcom/public_html/admin/formactions.php on line 209
+[18-Dec-2017 09:38:58 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/kpiasdotcom/public_html/admin/formactions.php on line 210
+[18-Dec-2017 09:40:25 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[18-Dec-2017 09:40:25 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/kpiasdotcom/public_html/admin/formactions.php on line 209
+[18-Dec-2017 09:40:25 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/kpiasdotcom/public_html/admin/formactions.php on line 210
+[18-Dec-2017 09:40:55 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[18-Dec-2017 09:40:55 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/kpiasdotcom/public_html/admin/formactions.php on line 209
+[18-Dec-2017 09:40:55 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/kpiasdotcom/public_html/admin/formactions.php on line 210
+[18-Dec-2017 09:41:24 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[18-Dec-2017 09:41:24 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/kpiasdotcom/public_html/admin/formactions.php on line 209
+[18-Dec-2017 09:41:24 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/kpiasdotcom/public_html/admin/formactions.php on line 210
+[18-Dec-2017 09:41:57 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[18-Dec-2017 09:41:57 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/kpiasdotcom/public_html/admin/formactions.php on line 209
+[18-Dec-2017 09:41:57 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/kpiasdotcom/public_html/admin/formactions.php on line 210
+[18-Dec-2017 09:42:40 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[18-Dec-2017 09:42:40 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/kpiasdotcom/public_html/admin/formactions.php on line 209
+[18-Dec-2017 09:42:40 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/kpiasdotcom/public_html/admin/formactions.php on line 210
+[18-Dec-2017 09:43:14 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[18-Dec-2017 09:43:14 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/kpiasdotcom/public_html/admin/formactions.php on line 209
+[18-Dec-2017 09:43:14 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/kpiasdotcom/public_html/admin/formactions.php on line 210
+[18-Dec-2017 09:43:44 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 206
+[18-Dec-2017 09:43:44 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/kpiasdotcom/public_html/admin/formactions.php on line 209
+[18-Dec-2017 09:43:44 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/kpiasdotcom/public_html/admin/formactions.php on line 210
+[19-Dec-2017 08:31:55 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/kpiasdotcom/public_html/admin/content.php on line 201
+[19-Dec-2017 08:33:33 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/kpiasdotcom/public_html/admin/content.php on line 201
+[19-Dec-2017 08:38:10 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/kpiasdotcom/public_html/admin/content.php on line 201
+[21-Dec-2017 11:13:46 Etc/GMT] PHP Notice:  Undefined index: winnter_testimonial in /home/kpiasdotcom/public_html/admin/formactions.php on line 245
+[26-Dec-2017 13:14:49 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/kpiasdotcom/public_html/admin/editgallery.php on line 118
+[26-Dec-2017 13:15:14 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/kpiasdotcom/public_html/admin/editgallery.php on line 118
+[27-Dec-2017 10:28:18 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/kpiasdotcom/public_html/admin/editgallery.php on line 118
+[30-Dec-2017 12:02:45 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/kpiasdotcom/public_html/admin/editgallery.php on line 118
+[02-Jan-2018 11:19:43 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/kpiasdotcom/public_html/admin/editgallery.php on line 118
+[02-Jan-2018 11:21:13 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/kpiasdotcom/public_html/admin/editgallery.php on line 118
+[02-Jan-2018 11:21:21 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/kpiasdotcom/public_html/admin/editgallery.php on line 118
+[02-Jan-2018 11:22:12 Etc/GMT] PHP Notice:  Undefined index: error in /home/kpiasdotcom/public_html/admin/formactions.php on line 532
+[02-Jan-2018 11:22:12 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kpiasdotcom/public_html/admin/formactions.php:520) in /home/kpiasdotcom/public_html/admin/formactions.php on line 533
+[02-Jan-2018 11:22:13 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/kpiasdotcom/public_html/admin/editgallery.php on line 118
+[02-Jan-2018 11:22:19 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/kpiasdotcom/public_html/admin/editgallery.php on line 118
+[02-Jan-2018 11:22:56 Etc/GMT] PHP Notice:  Undefined index: error in /home/kpiasdotcom/public_html/admin/formactions.php on line 532
+[02-Jan-2018 11:22:56 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kpiasdotcom/public_html/admin/formactions.php:520) in /home/kpiasdotcom/public_html/admin/formactions.php on line 533
+[02-Jan-2018 11:22:59 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/kpiasdotcom/public_html/admin/editgallery.php on line 118
+[02-Jan-2018 11:26:19 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/kpiasdotcom/public_html/admin/editgallery.php on line 118
+[02-Jan-2018 11:59:50 Etc/GMT] PHP Notice:  Undefined index: error in /home/kpiasdotcom/public_html/admin/formactions.php on line 532
+[02-Jan-2018 11:59:50 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kpiasdotcom/public_html/admin/formactions.php:520) in /home/kpiasdotcom/public_html/admin/formactions.php on line 533
+[02-Jan-2018 12:04:41 Etc/GMT] PHP Notice:  Undefined index: error in /home/kpiasdotcom/public_html/admin/formactions.php on line 532
+[02-Jan-2018 12:04:41 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kpiasdotcom/public_html/admin/formactions.php:520) in /home/kpiasdotcom/public_html/admin/formactions.php on line 533
+[02-Feb-2018 10:26:30 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/kpiasdotcom/public_html/admin/editgallery.php on line 118
+[01-Mar-2018 12:04:44 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/kpiasdotcom/public_html/admin/editgallery.php on line 118
+[01-Mar-2018 12:17:15 Etc/GMT] PHP Notice:  Undefined index: error in /home/kpiasdotcom/public_html/admin/formactions.php on line 532
+[01-Mar-2018 12:17:15 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kpiasdotcom/public_html/admin/formactions.php:520) in /home/kpiasdotcom/public_html/admin/formactions.php on line 533
+[01-Mar-2018 12:18:51 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/kpiasdotcom/public_html/admin/editgallery.php on line 118
+[01-Mar-2018 12:18:58 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/kpiasdotcom/public_html/admin/editgallery.php on line 118
+[08-Mar-2018 11:24:38 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/kpiasdotcom/public_html/admin/studentzone.php on line 140
