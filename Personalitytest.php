@@ -4,15 +4,14 @@
   <body>
     <div id="page">
         <?php require_once('header.php');?>
-                 
-
+               
         <div style="margin-top: 100px;"></div>
    
         <div class="container-fluid">  
         <h3 class="headtext"> Personality test</h3>
          <hr>
 
-          <!--PAGE CONTENT GOES HERE-->
+          <!--PAGE CONTENT GOES HERE test-->
           <div class="row">
         <div class="col-sm-8 col-md-8">
           
