@@ -11,7 +11,7 @@
         <h3 class="headtext"> Personality test</h3>
          <hr>
 
-          <!--PAGE CONTENT GOES HERE test-->
+          <!--PAGE CONTENT GOES HERE test test test-->
           <div class="row">
         <div class="col-sm-8 col-md-8">
           
