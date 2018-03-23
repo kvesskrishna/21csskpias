@@ -1,6 +1,5 @@
 <?php
 require_once('dbconfig.php');
-
 $response=array();
 
 define('API_KEY', '160e64f13691a2f59d34492dc238f98e');
