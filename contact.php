@@ -91,7 +91,7 @@
                 
                 <li><i class="fa fa-map-marker"></i> <strong>Rajahmundry Branch:</strong><br>
                 Opp: Panchayat School, Torredu(v), Seetanagaram Road, Rajahmundry-533104.<br>
-                <i class="fa fa-phone"></i> <strong>Phone:</strong> 0883 - 2497566, 9618883155, 9618885155</li><br>
+                <i class="fa fa-phone"></i> <strong>Phone:</strong> 9573416524, 9618883155, 9618885155</li><br>
 
                 <li><i class="fa fa-map-marker"></i> <strong>Vijayawada Branch:</strong><br>
                 <i class="fa fa-phone"></i> <strong>Phone:</strong> 09133678666, 09133351165<br><br>

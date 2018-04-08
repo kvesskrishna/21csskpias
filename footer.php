@@ -22,10 +22,10 @@
         </div><div class="col-xs-12 col-sm-3 col-md-3">
           <span class="phone"><u>RAJAHMUNDRY</u><p>&nbsp;</p>
             <i class="fa fa-map-marker"></i> Opp: Panchayat School, Torredu(v), Seetanagaram Road, Rajahmundry-533104.<br><p>&nbsp;</p>
-           <i class="fa fa-phone"></i> 09618885155, 08919363834, 09618883155<p>&nbsp;</p>
+           <i class="fa fa-phone"></i> 9573416524, 9618883155, 9618885155<p>&nbsp;</p>
            </span>
            <span class="phone"><u>VIJAYAWADA</u><p>&nbsp;</p>
-            <i class="fa fa-map-marker"></i> Krishna District, AP.<br>
+            <i class="fa fa-map-marker"></i> #40-1-50/1, 2nd Floor, OPP : State Bank of India, Bandar Road, Vijayawada - 520010.<br>
                 <i class="fa fa-phone"></i> 09133678666, 09133351165<p>&nbsp;</p>
               </span>
         </div>
