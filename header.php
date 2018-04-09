@@ -137,8 +137,8 @@
                                  <div class="col-sm-12 col-md-12" style="width:500px">
                                     <ul>                                       
                                        <li><a href="#"><b><u>Current Affairs Magazine</u></b></a></li>
-                                       <li><a href="maintenance">Telugu</a></li>
-                                       <li><a href="maintenance">English</a></li>
+                                       <li><a href="studentzone.php?category=telugumagazines">Telugu</a></li>
+                                       <li><a href="studentzone.php?category=englishmagazines">English</a></li>
                                        </ul>
                                  <ul>                                        
                                        <li><a href="maintenance"><b><u>Study Material</u></b></a></li>

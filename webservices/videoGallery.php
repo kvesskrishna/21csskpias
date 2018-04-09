@@ -42,7 +42,7 @@ function insert_video()
 function get_videos($video_id=0){
 	global $mysqli;
 
-		$query="SELECT * FROM kpias_videos";
+		$query="SELECT * FROM kpias_videos ORDER BY video_id DESC";
 		if($video_id != 0)
 		{
 			$query.=" WHERE video_id=".$video_id." LIMIT 1";

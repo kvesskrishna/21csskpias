@@ -2,7 +2,27 @@
 
 $cat=$_GET['category'];
 
-require_once('head.php');?>
+require_once('head.php');
+
+switch ($cat) {
+  case 'currentaffairs':
+    $title="Current Affairs (English)";
+    break;
+  case 'telugucurrentaffairs':
+    $title="Current Affairs (Telugu)";
+    break;
+  case 'telugumagazines':
+    $title="Magazines (Telugu)";
+    break;
+  case 'englishmagazines':
+    $title="Magazines (English)";
+    break;
+  
+  default:
+    # code...
+    break;
+}
+?>
 
 
 
@@ -50,7 +70,7 @@ require_once('head.php');?>
 
         <div class="container-fluid">  
 
-        <h3 class="headtext"> Student Zone > Current Affairs </h3>
+        <h3 class="headtext"> KPIAS > <?php echo $title?> </h3>
 
          <hr>
 
