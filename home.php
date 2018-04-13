@@ -271,9 +271,9 @@
       <div class="modal-content">
        
         <div class="modal-body">
-         <img src="popup/CA's.jpg" width="100%" />
-         <div class="text-center" style="display: none;">
-           <a href="popup/20171206.pdf" target="_blank" class="btn btn-primary btn-lg">Download Schedule</a>
+         <img src="popup/23042018.jpeg" width="100%" />
+         <div class="text-center" style="">
+           <a href="popup/23042018.pdf" target="_blank" class="btn btn-primary btn-lg">Download Schedule</a>
          </div>
         </div>
       
