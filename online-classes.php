@@ -31,7 +31,7 @@
 
                    ?>
           <div class="timeline-badge info"><i class="fa fa-check-square"></i></div>
-          <div class="timeline-panel" title="click me">
+          <div class="timeline-panel">
             <div class="timeline-heading">
               <h4 class="timeline-title"><?php echo $section->section_title?></h4>
               <h4 class="timeline-title"><b>Android Users :</b> </h4>
