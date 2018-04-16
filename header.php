@@ -22,7 +22,9 @@
 							
 									<li><a href="#l">Log In</a></li>
 									<li>|</li>
-									<li><a href="visitor-registration.php">Register</a></li>
+									<li><a href="visitor-registration">Register</a></li>
+								<li>|</li>
+									<li><a href="careers">We are hiring</a></li>
 								</ul>
 							</div>
 						</div>
