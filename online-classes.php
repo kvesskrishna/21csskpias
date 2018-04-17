@@ -44,7 +44,7 @@
 
                <h4 class="timeline-title"><b>Windows Users:</b> </h4>              
               <p class="pstyle">Click the below link and follow the instructions given <br>
-              <strong><a href="https://neostencil.com/?s=kpias&post_type=course" style="color: blue;"> NeoStencil </a></strong>
+              <strong><a href="https://neostencil.com/?s=kpias&post_type=course" style="color: blue;"> NeoStencil link </a></strong>
               <br> If you have any doubts mail us on KPIASONLINECLASS@GMAIL.COM</p>
 <br> <!--  <h4 class="timeline-title"><b>Android Users :</b> </h4>  -->
 <p class="pstyle"><strong> Note: </strong> All the students should maintain proper bandwidth and use head phones or ear phones for echo free HD voice.</p>               <br>
