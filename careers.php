@@ -83,6 +83,9 @@
                   <li>
                     c. Interview with the subject experts. 
                   </li>
+                  <li>
+                    d. Demo class in the concerned subject. 
+                  </li>
                 </ul> 
               </li>
               <li>
@@ -123,6 +126,9 @@
                     Conducting awareness seminars on how to crack civil services for which no additional payment is made.  (Arrangements like transportation, accommodation at the venue, food,  publicity, stage setting etc. will be made by the management)
                   </li>
                   <li>
+                   Interacting with the parents in the parents meet in case intermediate and degree teaching faculty
+                   </li>
+                  <li>
                     Any other activity as the management requires the staff is suitable to perform
                   </li>
 
@@ -148,6 +154,7 @@
            <li>
             Date of confirmation and Agreement: 3-5-18
           </li>
+          <li> Decision of the management is final in this regard </li>
         </ol>
       </p>
       <p>
@@ -190,7 +197,8 @@
          <i class="fa fa-arrow-right"></i> Sports you played<br> 
          <i class="fa fa-arrow-right"></i> Activities in which you are interested make students engaged. (General essay writing / extempore / group discussion / Quiz / mock interviews / mock assemblies  /field activities / games etc. )
 
-       </p>       
+       </p>
+       <h5> Download Sample Resume here <a href="applications/application-template.pdf"><button class="btn-primary">Download</button></a> </h5>     
      </p>
      <div class="well">
        <p>
