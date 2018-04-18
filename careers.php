@@ -198,7 +198,7 @@
          <i class="fa fa-arrow-right"></i> Activities in which you are interested make students engaged. (General essay writing / extempore / group discussion / Quiz / mock interviews / mock assemblies  /field activities / games etc. )
 
        </p>
-       <h5> Download Sample Resume here <a href="applications/application-template.pdf"><button class="btn-primary">Download</button></a> </h5>     
+       <h5> Download Sample Application here <a href="applications/application-template.pdf"><button class="btn-primary">Download</button></a> </h5>     
      </p>
      <div class="well">
        <p>
