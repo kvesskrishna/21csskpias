@@ -31,7 +31,7 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
             <!-- Item 1 -->
-            <div class="item active slide1">
+            <div class="item slide1">
                 <div class="row"><div class="container">
                     
                     <div class="col-md-9 text-left">
@@ -111,7 +111,19 @@
                         <h4 data-animation="animated bounceInUp">Get Start With Awesome KPIAS </h4>
                      </div>
                       
-                </div></div>
+                </div>
+              </div>
+            </div>
+            <div class="item active slide9">
+                <div class="row"><div class="container">
+                    <div class="col-md-7 text-right">
+                        <h3 data-animation="animated bounceInDown">Apply on or before 30th April</h3>
+                        <h4 data-animation="animated bounceInUp" class="text-center">
+                          <a href="careers" class="btn btn-default">Read More</a><br>
+                          <a target="_blank" href="applications/application-template.pdf" class="btn btn-success">Download Application</a> </h4>
+                     </div>
+                </div>
+              </div>
             </div>
         </div>
         <!-- End Wrapper for slides-->

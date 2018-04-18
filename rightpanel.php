@@ -6,7 +6,6 @@
         <li><a href="studentzone.php?category=telugucurrentaffairs">Current Affairs (Telugu)</a></li>
         <li><a href="maintenance">Test Papers</a></li>
         <li><a href="maintenance">Daily Quiz</a></li>
-        <li><a href="maintenance">Editorial</a></li>
         <li><a href="maintenance">Yojana/Kurukshetra</a></li>
         <li><a href="suggested-references">References</a></li>
         <li class="text-center"><a class="btn btn-danger" id="close-panel-bt">Close</a></li>
