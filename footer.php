@@ -62,7 +62,7 @@
                   </div>
           <div class="copyright">
             &copy;KPIAS. All Right Reserved 2017<small>.Designed and Developed by <a href="http://www.21cssindia.com" style="color:white">21CSS India Pvt. Ltd.</a></small><br> 
-            <h6 style="display: none;"><u><a href="#" style="color:white;">SiteMap </a></u></h6>
+            <h6 style="display: none;"><u><a href="#" style="color:white;">SiteMaps </a></u></h6>
           </div>
         </div>
       </div>
