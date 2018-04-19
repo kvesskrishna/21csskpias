@@ -1,6 +1,9 @@
 DirectoryIndex home.php
 RewriteEngine on
 
+RewriteCond %{HTTP_HOST} ^kpias.com$ [NC]
+RewriteRule (.*) http://www.kpias.com/$1 [R=301,L] 
+
 RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule !.*\.php$ %{REQUEST_FILENAME}.php [QSA,L]
 
