@@ -41,7 +41,7 @@
                    ?>
               
             
-            <div class="col-md-4 col-sm-6">
+            <div class="col-md-6 col-sm-12">
 				<div class="video">
                 <iframe class="embed-responsive-item" src='<?php echo $video->video_link?>' frameborder="0" allowfullscreen></iframe>
                 </div>
