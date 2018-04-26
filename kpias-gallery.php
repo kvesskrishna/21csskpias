@@ -37,15 +37,28 @@
                   
                   foreach ($result as $video)
                   {
-
-                   ?>
+?>
               
             
-            <div class="col-md-6 col-sm-12">
+            <div class="col-md-4 col-sm-6">
 				<div class="video">
                 <iframe class="embed-responsive-item" src='<?php echo $video->video_link?>' frameborder="0" allowfullscreen></iframe>
                 </div>
-				<p class="iframetext"><?php echo $video->video_title?></p>
+				<p class="iframetext">
+     <?php 
+     $fulltitle=$video->video_title;
+        $string = strip_tags($fulltitle);
+if (strlen($string) > 26) {
+
+    // truncate string
+    $stringCut = substr($string, 0, 25);
+
+    //if the string doesn't contain any space then it will cut without word basis.
+    $string = substr($stringCut, 0, strrpos($stringCut, " ")).'...<a href="video-gallery.php?id=<?php echo $item->video_id?>" style="color:red;" target="_blank">Read More</a>';
+}
+       echo $string;           
+        ?>    
+        </p>
             </div>
           <?php } ?>                        
         </div><!-- col div -->  
