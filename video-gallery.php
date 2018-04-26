@@ -36,7 +36,7 @@ $id=$_GET['id'];
 
         <div class="container-fluid">  
 
-        <h3 class="headtext"> KPIAS Video </h3>
+        <h3 class="headtext"> KPIAS VIDEO </h3>
 
          <hr>
 
