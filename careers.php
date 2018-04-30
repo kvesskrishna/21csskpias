@@ -140,19 +140,19 @@
             <h5 style="font-weight:bold">Important points to remember</h5>
             <ol>
               <li>
-               Last date of application : 30-4-18
+               Last date of application : 10-05-18
              </li>
              <li>
-              Date of written exam (Objective and Descriptive) : 20-5-18
+              Date of written exam (Objective and Descriptive) : 30-05-18
             </li>
             <li>
-             Date of Written Results: 27-5-18
+             Date of Written Results: 07-06-18
            </li>
            <li>
-             Date of Interview: 31-5-18
+             Date of Interview: 01-06-18
            </li>
            <li>
-            Date of confirmation and Agreement: 3-5-18
+            Date of confirmation and Agreement: 13-06-18
           </li>
           <li> Decision of the management is final in this regard </li>
         </ol>
