@@ -127,7 +127,6 @@
                                
                                <div class="dwn">
                                     <h3>Download Brochure </h3>
-                                    <a href="#" class="btn btn-success "><i class="fa fa-download fa-1x icon-white"></i> RIB -2016 Test Series</a><br><br>
                                         <a href="#" class="btn btn-success "><i class="fa fa-download fa-1x icon-white"></i> Mains GS &GE Daily & Weekend Tests</a>
                                </div>
 
