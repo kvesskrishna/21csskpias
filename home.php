@@ -117,7 +117,7 @@
 					<div class="item active slide9">
 						<div class="row"><div class="container">
 							<div class="col-md-7 text-right">
-								<h3 data-animation="animated bounceInDown">Apply on or before 30th April</h3>
+								<h3 data-animation="animated bounceInDown">Apply on or before 10th May</h3>
 								<h4 data-animation="animated bounceInUp" class="text-center">
 									<a href="careers" class="btn btn-default">Read More</a><br>
 									<a target="_blank" href="applications/application-template.pdf" class="btn btn-success">Download Application</a> </h4>
@@ -284,7 +284,7 @@
 
 					<div class="modal-body">
 						<img src="popup/20180429.jpg" width="100%" />
-						<div class="text-center" style="">
+						<div class="text-center" style="display: none;">
 							<a href="popup/23042018.pdf" target="_blank" class="btn btn-primary btn-lg">Download Schedule</a>
 						</div>
 					</div>
