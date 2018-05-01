@@ -127,7 +127,7 @@
                                
                                <div class="dwn">
                                     <h3>Download Brochure </h3>
-                                        <a href="#" class="btn btn-success "><i class="fa fa-download fa-1x icon-white"></i> Mains GS &GE Daily & Weekend Tests</a>
+                                        <a href="img/broucher.pdf" target="_blank" class="btn btn-success "><i class="fa fa-download fa-1x icon-white"></i> Whant to know more about us? <strong>Download our Broucher</strong></a>
                                </div>
 
                                 <!--<div>
