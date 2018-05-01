@@ -17,6 +17,68 @@
         <div class="col-sm-8 col-md-8">
           
     <ul class="timeline">
+
+<li>
+            <div class="timeline-panel">
+            <div class="timeline-heading">
+            <div class="row">
+    <h3>2016-2017 Achievers</h3>
+    <hr>
+    <div class="MultiCarousel" data-items="1,3,5,6" data-slide="1" id="MultiCarousel"  data-interval="1000">
+                
+                <div class="item">
+                    <div class="col-md-3 col-sm-6">                     
+                            <h5>All India Rank</h5>
+                            <h3>144</h3>
+                         <img src="winners/2017-2018/Madhuri.png" class="image-responsive">
+                        <h6 style="font-weight: bold">MADHURI GADDAM</h6>
+                        <h6 style="font-weight: bold">Civils</h6>
+                        <h6 style="font-weight: bold">2017-2018</h6>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="col-md-3 col-sm-6">                     
+                            <h5>All India Rank</h5>
+                            <h3>480</h3>
+                            <img src="winners/2017-2018/SAINATH.png" class="image-responsive">
+                        <h6 style="font-weight: bold">POREDDY SAINATH REDDY</h6>
+                        <h6 style="font-weight: bold">Civils</h6>
+                        <h6 style="font-weight: bold">2017-2018</h6>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="col-md-3 col-sm-6">                     
+                            <h5>All India Rank</h5>
+                            <h3>484</h3>
+                            <img src="winners/2017-2018/NEHARIKA.png" class="image-responsive">
+                        <h6 style="font-weight: bold">SHIV NEHARIKA SINGH</h6>
+                        <h6 style="font-weight: bold">Civils</h6>
+                        <h6 style="font-weight: bold">2017-2018</h6>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="col-md-3 col-sm-6">                     
+                            <h5>All India Rank</h5>
+                            <h3>624</h3>
+                            <img src="winners/2017-2018/Akshay.png" class="image-responsive">
+                        <h6 style="font-weight: bold">YEDAVELLI AKSHAY KUMAR</h6>
+                        <h6 style="font-weight: bold">Civils</h6>
+                        <h6 style="font-weight: bold">2017-2018</h6>
+                    </div>
+                </div>
+                
+                
+
+               
+            </div>        
+                
+                
+
+            </div>
+            
+          </div>
+        </li>
+
         <li>
             <div class="timeline-panel">
             <div class="timeline-heading">
