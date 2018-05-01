@@ -285,7 +285,7 @@
 					<div class="modal-body">
 						<img src="popup/20180429.jpg" width="100%" />
 						<div class="text-center" style="display: none;">
-							<a href="popup/23042018.pdf" target="_blank" class="btn btn-primary btn-lg">Download Schedule</a>
+							<a href="popup/23042018.pdf" target="_blank" class="btn btn-primary btn-lg" alt="Popup Image|KPIAS">Download Schedule</a>
 						</div>
 					</div>
 
