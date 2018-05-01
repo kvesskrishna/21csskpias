@@ -10,7 +10,7 @@
 						
 					<div class="viewed-courses-box">
 						<div class="viewed-courses-img">
-							<img src="img/tarun-reddy-IRS.jpg" width=250px height=230px/>
+							<img src="img/tarun-reddy-IRS.jpg" width=250px height=230px/ alt="Taru Reddy">
 						</div>
 						<div class="viewed-courses-text">
 								<h4>Mr.Tarun Reddy IRS Speech </h4>
@@ -28,7 +28,7 @@
 						
 					<div class="viewed-courses-box">
 						<div class="viewed-courses-img">
-							<img src="img/RIB-Ba.jpg" width=250px height=230px/>
+							<img src="img/RIB-Ba.jpg" width=250px height=230px/ alt="Image 9|KPIAS">
 						</div>
 						<div class="viewed-courses-text">
 								<h4>About Civil Services Exam</h4>
