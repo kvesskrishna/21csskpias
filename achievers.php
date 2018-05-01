@@ -27,7 +27,7 @@
     <div class="MultiCarousel" data-items="1,3,5,6" data-slide="1" id="MultiCarousel"  data-interval="1000">
                 
                 <div class="item">
-                    <div class="col-md-3 col-sm-6">                     
+                    <div class="col-md-4 col-sm-6">                     
                             <h5>All India Rank</h5>
                             <h3>144</h3>
                          <img src="winners/2017-2018/Madhuri.png" class="image-responsive">
@@ -37,7 +37,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <div class="col-md-3 col-sm-6">                     
+                    <div class="col-md-4 col-sm-6">                     
                             <h5>All India Rank</h5>
                             <h3>480</h3>
                             <img src="winners/2017-2018/SAINATH.png" class="image-responsive">
@@ -47,7 +47,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <div class="col-md-3 col-sm-6">                     
+                    <div class="col-md-4 col-sm-6">                     
                             <h5>All India Rank</h5>
                             <h3>484</h3>
                             <img src="winners/2017-2018/NEHARIKA.png" class="image-responsive">
@@ -57,7 +57,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <div class="col-md-3 col-sm-6">                     
+                    <div class="col-md-4 col-sm-6">                     
                             <h5>All India Rank</h5>
                             <h3>624</h3>
                             <img src="winners/2017-2018/Akshay.png" class="image-responsive">
