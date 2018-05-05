@@ -164,7 +164,7 @@
 										" 
 										>Student Zone</a>
 									</li>
-									<li>
+									<li style="display:none;">
 										<a href="#"><i class="fa fa-search" aria-hidden="true"></i></a>
 									</li>
 								</ul>
