@@ -52,11 +52,11 @@
           <div class="f-sicon">
             <h2>FOLLOW US ON</h2>
                      <ul>
-                        <li><a href="https://www.facebook.com/21stCenturyIas"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                        <li><a href="https://twitter.com/kpiasacademy"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                        <li><a href="https://www.linkedin.com/in/krishna-pradeep-872107106/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                        <li><a href="https://www.facebook.com/21stCenturyIas" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                        <li><a href="https://twitter.com/kpiasacademy" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                        <li><a href="https://plus.google.com/u/1/111579390887306169815" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                        <li><a href="https://www.linkedin.com/in/krishna-pradeep-ias-872107106/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                        <li><a href="https://www.instagram.com/kpiasacademy/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
                          <li><a href="https://www.youtube.com/user/kptrainer21/videos" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
                      </ul>
                   </div>
