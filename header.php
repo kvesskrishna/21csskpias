@@ -12,7 +12,7 @@
 					<div class="row">
 						<div class="col-xs-12 col-sm-6 col-md-6">
 							<div class="phone dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"><i class="fa fa-envelope" aria-hidden="true"></i>  info@kpias.com | <i class="fa fa-phone" aria-hidden="true"></i> <strong>Toll-Free No: 18002001424</strong>, 08686233879, 040 - 65537733</a>
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown"><i class="fa fa-envelope" aria-hidden="true"></i>  info@kpias.com | <i class="fa fa-phone" aria-hidden="true"></i> <strong>Toll-Free No: 18002001424</strong>, 08686233879, 040 - 66787733</a>
 								
 							</div>
 						</div>
