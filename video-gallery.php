@@ -1,6 +1,6 @@
 <?php require_once('head.php');
 
-$id=$_GET['id'];
+$url=$_GET['url'];
 
 
 
@@ -21,8 +21,7 @@ $id=$_GET['id'];
     
 
   <body>
-
-    <div id="page">
+    <div>
 
         <?php require_once('header.php');?>
 
@@ -52,7 +51,6 @@ $id=$_GET['id'];
         <div class="video">
                 <iframe class="embed-responsive-item" src='<?php echo $result[0]->video_link?>' style="width:100%;" frameborder="0" allowfullscreen></iframe>
                 </div> 
-
 
      </div>
 
