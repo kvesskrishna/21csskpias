@@ -1,5 +1,6 @@
 <?php require_once('head.php');
 
+$url=$_GET['video_link'];
 
  ?>
   <body>
