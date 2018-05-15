@@ -272,7 +272,7 @@
 				<div class="modal-content">
 
 					<div class="modal-body">
-						<img src="popup/may 14th seminar.jpeg" width="100%" />
+						<img src="popup/May15.jpg" width="100%" />
 						<div class="text-center" style="display: none;">
 							<a href="popup/23042018.pdf" target="_blank" class="btn btn-primary btn-lg" alt="Popup Image|KPIAS">Download Schedule</a>
 						</div>
