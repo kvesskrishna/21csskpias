@@ -5,13 +5,14 @@
       
         <div class="col-xs-12 col-sm-3 col-md-3">
           <span class="phone"><u>HYDERABAD :</u><p>&nbsp;</p><i class="fa fa-map-marker"></i> Opp : Sub Registrar Office, Ashok Nagar, Hyderabad-500020. <br>
+                       <i class="fa fa-phone"></i>  040 66787733<br>
             <i class="fa fa-location-arrow" style="color: red;"></i><a href="Route-Map.php?id=1"> Route Map from HYD Bus Stop</a><br>
             <i class="fa fa-location-arrow" style="color: red;"></i><a href="Route-Map.php?id=2"> Route Map from HYD Railway Statio</a><br>
             <i class="fa fa-location-arrow" style="color: red;"></i><a href="Route-Map.php?id=3"> Route Map from SC Bus Stop</a><br>
             <i class="fa fa-location-arrow" style="color: red;"></i><a href="Route-Map.php?id=4"> Route Map from SC Railway Statio</a><br><p>&nbsp;</p>
 
             <i class="fa fa-map-marker"></i> Opp.UmeshChandraStatue, Vodafone-Airtel Building, 3rd Floor, SR Nagar Busstop, SR Nagar, Hyderabad-500038<br>
-           <i class="fa fa-phone"></i>  08686233879 | 040 - 65537733 | 09972075540<br>
+           <i class="fa fa-phone"></i>  08686233879 | 040 - 66787733 | 09972075540<br>
            <i class="fa fa-location-arrow" style="color: red;"></i><a href="Route-Map.php?id=5"> Route Map from HYD Bus Stop</a><br>
            <i class="fa fa-location-arrow" style="color: red;"></i><a href="Route-Map.php?id=6"> Route Map from HYD Railway Station</a><br>
            <i class="fa fa-location-arrow" style="color: red;"></i><a href="Route-Map.php?id=7"> Route Map from SC Bus Stop</a><br>

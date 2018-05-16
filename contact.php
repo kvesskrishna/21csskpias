@@ -76,9 +76,9 @@
               <ul class="list list-icons list-icons-style-3 mt-xlg" style="list-style-type:none">
 
                 <li><i class="fa fa-map-marker"></i> <strong>Hyderabad Branch:</strong><br>
-                1) Opp : Sub Registrar Office, Ashok Nagar, Hyderabad-500020.
+                1) Opp : Sub Registrar Office, Ashok Nagar, Hyderabad-500020.<strong>Phone: </strong>040 - 66787733
                 <br>2) Opp.UmeshChandraStatue, Vodafone-Airtel Building, 3rd Floor, SR Nagar Busstop, SR Nagar, Hyderabad-500038 <br>
-                <i class="fa fa-phone"></i> <strong>Phone:</strong> 08686233879, 040 - 65537733, 9972075540 </li><br>
+                <i class="fa fa-phone"></i> <strong>Phone:</strong> 08686233879, 040 - 66787733, 9972075540 </li><br>
                 
                 
                 <li><i class="fa fa-map-marker"></i> <strong>Hyderabad Branch:</strong><br> Beside VRK Silks, Archids Building, Opp.Chutneys Restaurant, KPHB, Hyderabad-500072.<br>
