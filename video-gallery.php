@@ -1,12 +1,12 @@
 <?php require_once('head.php');
 
-$id=$_GET['id'];
+$url=$_GET['url'];
 
 
 
 
            $ch = curl_init();
-                  curl_setopt ($ch, CURLOPT_URL, 'http://www.kpias.com/webservices/videoGallery?api_key=160e64f13691a2f59d34492dc238f98e');
+                  curl_setopt ($ch, CURLOPT_URL, 'http://www.kpias.com/webservices/videoGallery?api_key=160e64f13691a2f59d34492dc238f98e'.$url);
                   curl_setopt ($ch, CURLOPT_RETURNTRANSFER, true);
                   $response=curl_exec($ch);
                   curl_close ($ch);
@@ -21,8 +21,7 @@ $id=$_GET['id'];
     
 
   <body>
-
-    <div id="page">
+    <div>
 
         <?php require_once('header.php');?>
 
@@ -52,7 +51,6 @@ $id=$_GET['id'];
         <div class="video">
                 <iframe class="embed-responsive-item" src='<?php echo $result[0]->video_link?>' style="width:100%;" frameborder="0" allowfullscreen></iframe>
                 </div> 
-
 
      </div>
 
