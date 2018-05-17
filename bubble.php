@@ -54,7 +54,7 @@
   </style>
 </head>
 <div class="zoom">
-  <a href="#"><img style="border: 1px solid grey;padding: 5px;background-color: white" src="assets/img/neostencil.png" class="img-rounded" height=100px width=150px> </a>
+  <a href="#"><img style="border: 1px solid grey;padding: 5px;background-color: white" src="assets/img/neostencil.png" alt="Logo|KPIAS" class="img-rounded" height=100px width=150px> </a>
 </div>
 
 
