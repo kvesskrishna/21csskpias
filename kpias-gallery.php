@@ -1,7 +1,4 @@
 <?php require_once('head.php');
-
-$url=$_GET['video_link'];
-
  ?>
   <body>
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css">
@@ -57,7 +54,7 @@ if (strlen($string) > 26) {
     $stringCut = substr($string, 0, 25);
 
     //if the string doesn't contain any space then it will cut without word basis.
-    $string = substr($stringCut, 0, strrpos($stringCut, " ")).'...<a href="video-gallery.php?url=$video_link" style="color:#428bca;" target="_blank">Read More</a>';
+    $string = substr($stringCut, 0, strrpos($stringCut, " ")).'... <br><a href="video-gallery.php?id='. $video->video_id.'" style="color:#428bca;" target="_blank">Watch Full video</a>';
 }
        echo $string;
         ?>    
