@@ -45,7 +45,7 @@ function get_videos($video_id=0){
 		$query="SELECT * FROM kpias_videos ORDER BY video_id DESC";
 		if($video_id != 0)
 		{
-			$query.=" WHERE video_id=".$video_id." LIMIT 1";
+			$query="SELECT * FROM kpias_videos WHERE video_id=".$video_id." LIMIT 1";
 		}
 		$result=$mysqli->query($query);
 		while($row=$result->fetch_assoc())
