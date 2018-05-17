@@ -8,6 +8,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Krishna Pradeep’s 21st century IAS Provides the Best Coaching for UPSC | IAS | Civil Services All over India. We also provide coaching for APPSC | TSPSC. The Best Faculty & Study Materials in India.">
 	<meta name="keywords" content="Best ias coaching in india, civil services coaching, upsc coaching, appsc , tspsc , ias coaching in hyderabad, ias coaching in visakhapatnam,ias coaching in Andhra Pradesh,ias coaching in vizag,upsc coaching in new Telangana,BEST IAS INSTITUTE, TOP IAS INSTITUTE, BEST IAS INSTITUTE INDIA, TOP IAS INSTITUTE HYDERABAD, UPSC COACHING INSTITUTE, IAS COACHING, IAS COACHING CENTRES IN INDIA, IAS GUIDANCE, UPSC COACHING INDIA, CIVIL SERVICES EXAMS, CURRENT AFFAIRS FOR UPSC, FREE WORKSHOP FOR UPSC, FREE GUIDANCE FOR IAS ASPIRANTS, BEST IAS INSTITUTE IN VIZAG,BEST IAS INSTITUTE IN AP.">
+	<meta name= "robots" content=" index, follow">
 	<title>Best UPSC | IAS | Civil Services Coaching Center in India - Krishna Pradeep’s 21st century IAS</title>
 	<!-- Standard -->
 	<link rel="shortcut icon" href="assets/img/logo.png">
