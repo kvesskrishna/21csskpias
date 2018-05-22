@@ -53,7 +53,7 @@
 
   </style>
 </head>
-<div class="zoom1">
+<div class="zoom1" style="display: none">
   <a href="#"><img style="border: 1px solid grey;padding: 4px;background-color: white" src="popup/23042018.jpeg" class="img-rounded" height=100px width=150px> </a>
 </div>
 

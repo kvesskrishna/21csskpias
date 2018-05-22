@@ -5,7 +5,7 @@
 <section class="for-box">
 		<?php
 						$ch = curl_init();  
-					    curl_setopt($ch,CURLOPT_URL,'http://www.kpias.com/webservices/latestEvents?api_key=160e64f13691a2f59d34492dc238f98e');
+					    curl_setopt($ch,CURLOPT_URL,'https://www.kpias.com/webservices/latestEvents?api_key=160e64f13691a2f59d34492dc238f98e');
 					    curl_setopt($ch,CURLOPT_RETURNTRANSFER,true);
 					    $response=curl_exec($ch);
 					    curl_close($ch);

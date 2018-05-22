@@ -9,9 +9,9 @@
 <div class="hidden-md hidden-lg">
 	<p class="text-center" style="margin-top: 100px">
 		<b style="font-size: 18px;color: black">Install KPIAS App, Stay Updated..</b>
-		<a href='https://itunes.apple.com/in/app/kpias/id1110691801?mt=8&at=10l6Xd&ct=jeav72vtgc00xkod01g9a'><img alt='Download on App Store' src='http://www.kpias.com/appstore-logo.png'/></a>
+		<a href='https://itunes.apple.com/in/app/kpias/id1110691801?mt=8&at=10l6Xd&ct=jeav72vtgc00xkod01g9a'><img alt='Download on App Store' src='https://www.kpias.com/appstore-logo.png'/></a>
 
-		<a href='https://play.google.com/store/apps/details?id=com.a21css.kpias&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='http://www.kpias.com/playstore-logo.png'/ style="margin-top: 25px"></a>
+		<a href='https://play.google.com/store/apps/details?id=com.a21css.kpias&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://www.kpias.com/playstore-logo.png'/ style="margin-top: 25px"></a>
 	</p>
 </div>
 <div id="page">
@@ -22,7 +22,7 @@
 
 		<div class="row">
 			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-			<link rel="stylesheet" href="http://cdn.bootcss.com/animate.css/3.5.1/animate.min.css">
+			<link rel="stylesheet" href="https://cdn.bootcss.com/animate.css/3.5.1/animate.min.css">
 
 			<div id="first-slider">
 				<div id="carousel-example-generic" class="carousel slide carousel-fade">
@@ -159,7 +159,7 @@
 
 				$ch = curl_init();  
 
-				curl_setopt($ch,CURLOPT_URL,'http://www.21cssindia.com/new/workspace/webservices/visionMission?api_key=160e64f13691a2f59d34492dc238f98e');
+				curl_setopt($ch,CURLOPT_URL,'https://www.21cssindia.com/new/workspace/webservices/visionMission?api_key=160e64f13691a2f59d34492dc238f98e');
 
 				curl_setopt($ch,CURLOPT_RETURNTRANSFER,true);
 
@@ -221,7 +221,7 @@
 					<div class="MultiCarousel-inner">
 						<?php
 						$ch = curl_init();  
-						curl_setopt($ch,CURLOPT_URL,'http://www.kpias.com/webservices/ourWinners?api_key=160e64f13691a2f59d34492dc238f98e');
+						curl_setopt($ch,CURLOPT_URL,'https://www.kpias.com/webservices/ourWinners?api_key=160e64f13691a2f59d34492dc238f98e');
 						curl_setopt($ch,CURLOPT_RETURNTRANSFER,true);
 						$response=curl_exec($ch);
 						curl_close($ch);
@@ -272,7 +272,7 @@
 				<div class="modal-content">
 
 					<div class="modal-body">
-						<img src="popup/May-15.jpg" width="100%" />
+						<img src="popup/20180522.jpeg" width="100%" />
 						<div class="text-center" style="display: none;">
 							<a href="popup/23042018.pdf" target="_blank" class="btn btn-primary btn-lg" alt="Popup Image|KPIAS">Download Schedule</a>
 						</div>
