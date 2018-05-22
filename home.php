@@ -264,15 +264,20 @@
 
 		</div>
 
-		<div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true"  id="onload">
+		<!-- <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true"  id="onload">
 
 			<div class="modal-dialog">
 
 
 				<div class="modal-content">
 
+<<<<<<< HEAD
 					<div class="modal-body">
 						<img src="popup/20180522.jpeg" width="100%" />
+=======
+					<div class="modal-body" style="display: none;">
+						<img src="popup/May-15.jpg" width="100%" />
+>>>>>>> 110f1d46403dea9b812f245d1a91b12d51b5f0fc
 						<div class="text-center" style="display: none;">
 							<a href="popup/23042018.pdf" target="_blank" class="btn btn-primary btn-lg" alt="Popup Image|KPIAS">Download Schedule</a>
 						</div>
@@ -281,9 +286,10 @@
 				</div>
 
 			</div>
-		</div>
+		</div>-->
 
-		<?php require_once('bubble.php');?> <?php require_once('leftbubble.php');?>
+		<?php require_once('bubble.php');?> 
+    <!--<?php require_once('leftbubble.php');?>-->
 		<?php require_once('footer.php');?>
 
 	</div>

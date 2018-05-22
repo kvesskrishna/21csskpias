@@ -1,12 +1,12 @@
 <?php require_once('head.php');
 
-$url=$_GET['url'];
+$id=$_GET['id'];
 
 
 
 
            $ch = curl_init();
-                  curl_setopt ($ch, CURLOPT_URL, 'http://www.kpias.com/webservices/videoGallery?api_key=160e64f13691a2f59d34492dc238f98e'.$url);
+                  curl_setopt ($ch, CURLOPT_URL, 'http://www.kpias.com/webservices/videoGallery?api_key=160e64f13691a2f59d34492dc238f98e&video_id='.$id);
                   curl_setopt ($ch, CURLOPT_RETURNTRANSFER, true);
                   $response=curl_exec($ch);
                   curl_close ($ch);
