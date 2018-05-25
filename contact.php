@@ -93,7 +93,7 @@
                 Opp: Panchayat School, Torredu(v), Seetanagaram Road, Rajahmundry-533104.<br>
                 <i class="fa fa-phone"></i> <strong>Phone:</strong> 9573416524, 9618883155, 9618885155</li><br>
 
-                <li><i class="fa fa-map-marker"></i> <strong>Vijayawada Branch:</strong><br>
+                <li style="display: none;"><i class="fa fa-map-marker"></i> <strong>Vijayawada Branch:</strong><br>
                 <i class="fa fa-phone"></i> <strong>Phone:</strong> 09133678666, 09133351165<br><br>
                 <i class="fa fa-envelope"></i> <strong>Email:</strong>
                   <a href="mailto:contact@21cssindia.com">info@kpias.com</a></li>

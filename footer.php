@@ -42,7 +42,7 @@
            <i class="fa fa-location-arrow" style="color: red;"></i><a href="Route-Map.php?id=15"> Route Map from Bus Stop</a><br>
            <i class="fa fa-location-arrow" style="color: red;"></i><a href="Route-Map.php?id=16"> Route Map from Railway Station</a><br><p>&nbsp;</p>
            </span>
-           <span class="phone"><u>VIJAYAWADA :</u><p>&nbsp;</p>
+           <span style="display: none;" class="phone"><u>VIJAYAWADA :</u><p>&nbsp;</p>
             <i class="fa fa-map-marker"></i> #40-1-50/1, 2nd Floor, OPP : State Bank of India, Bandar Road, Vijayawada - 520010.<br>
                 <i class="fa fa-phone"></i> 09133678666, 09133351165<br>
                 <i class="fa fa-location-arrow" style="color: red;"></i><a href="Route-Map.php?id=17"> Route Map from Bus Stop</a><br>
